@@ -22,21 +22,27 @@
 
    ```bash
    git clone <URL_DO_REPOSITORIO>
-🔙 Navegue até o diretório do projeto:
 
+### 🔙 Navegue até o diretório do projeto:
+
+```bash
 cd <DIRETORIO_DO_PROJETO>
-📝 Execute o arquivo principal:
 
+### 📝 Execute o arquivo principal:
+
+```bash
 python calculadora.py
-📚 A interface da calculadora será exibida em uma nova janela.
+
+### 📚 A interface da calculadora será exibida em uma nova janela.
 
 ## Layout da Interface
-🔢 Caixa de Entrada: Localizada no topo da janela, permite a entrada de números e operações matemáticas.
-⏺ Botões: Organizados em uma grade de 4 colunas e 5 linhas. Os botões estão coloridos para facilitar a identificação de funções:
-Operações matemáticas: 🔴 Laranja
-Outros botões (0 e ponto decimal): 🔶 Cinza claro
-Demais números: 🔳 Cinza escuro
-Controles do Teclado
+### 🔢 Caixa de Entrada: Localizada no topo da janela, permite a entrada de números e operações matemáticas.
+### ⏺ Botões: Organizados em uma grade de 4 colunas e 5 linhas. Os botões estão coloridos para facilitar a identificação de funções:
+#### Operações matemáticas: 🔴 Laranja
+#### Outros botões (0 e ponto decimal): 🔶 Cinza claro
+#### Demais números: 🔳 Cinza escuro
+
+### Controles do Teclado
 ⏎ Pressione Enter para calcular o resultado diretamente da entrada.
 
 ## Resultado:
