@@ -24,17 +24,13 @@
    git clone <URL_DO_REPOSITORIO>
 🔙 Navegue até o diretório do projeto:
 
-bash
-Copiar código
 cd <DIRETORIO_DO_PROJETO>
 📝 Execute o arquivo principal:
 
-bash
-Copiar código
 python calculadora.py
 📚 A interface da calculadora será exibida em uma nova janela.
 
-Layout da Interface
+## Layout da Interface
 🔢 Caixa de Entrada: Localizada no topo da janela, permite a entrada de números e operações matemáticas.
 ⏺ Botões: Organizados em uma grade de 4 colunas e 5 linhas. Os botões estão coloridos para facilitar a identificação de funções:
 Operações matemáticas: 🔴 Laranja
@@ -43,10 +39,10 @@ Demais números: 🔳 Cinza escuro
 Controles do Teclado
 ⏎ Pressione Enter para calcular o resultado diretamente da entrada.
 
-Resultado:
+## Resultado:
 🎥 ![calculadora_simulacao](https://github.com/user-attachments/assets/648d3417-a942-43a3-9cad-98c1acb2f7ea)
 
-Personalização
+### Personalização
 🌱 Você pode modificar o código para:
 
 🎨 Alterar as cores dos botões
