@@ -48,7 +48,8 @@ Localizada no topo da janela, permite a entrada de números e operações matem�
 ##### ⏎ Pressione Enter para calcular o resultado diretamente da entrada.
 
 ### Demonstração 🎥 
-![calculadora_simulacao](https://github.com/user-attachments/assets/42154de5-9aad-4866-b174-662240d83877)
+![calculadora_simulacao](https://github.com/user-attachments/assets/a0863e3e-890c-43df-baf1-5281d028c7c0)
+
 
 ## Personalização
 * 🌱 Você pode modificar o código para:
