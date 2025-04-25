@@ -58,6 +58,3 @@ Localizada no topo da janela, permite a entrada de números e operações matem�
 * 🔧 Customizar fontes e estilos
 ## Contribuições
 ##### 🙏 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões!
-
-## Licença
-##### 🔒 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
